@@ -1,0 +1,1 @@
+"./UARTFuncs.obj" "./user_final.obj" "../lnk_msp430f2272.cmd" -llibc.a 
